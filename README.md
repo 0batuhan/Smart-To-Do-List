@@ -64,4 +64,4 @@
 
     ---
 
-c:\Users\Batuhan\Downloads\ChatGPT Image 15 Ağu 2025 13_11_35.png
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/040c7b3f-1747-42c1-aee2-93a9e6e6a8a1" />
